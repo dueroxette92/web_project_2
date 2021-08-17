@@ -1,0 +1,8 @@
+.oakley__two-columns {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    min-width: 784px;
+    max-width: 80%;
+    margin: 0 auto;
+}

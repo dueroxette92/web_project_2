@@ -1,0 +1,10 @@
+.resources__logo {
+    width: 270px;
+    height: 38px;
+}
+
+.resources__logo:hover {
+    cursor: pointer;
+    opacity: 0.5;
+    transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
